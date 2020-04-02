@@ -1,0 +1,56 @@
+/*
+* @Author: yan
+* @Date:   2017-11-07 00:02:25
+* @Last Modified by:   yan
+* @Last Modified time: 2017-11-07 00:08:11
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑","宋体",sans-serif;
+    box-sizing: border-box;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.back{
+	width: 100%;
+	height: 100%;
+	background: url('../src/assets/1.png');
+	background-size: cover;
+	overflow: hidden;
+}
+.ba-zi{
+	width: 100%;
+	margin-top: 4.8rem;
+}
+.ba-zi img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.choice{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 5.4rem;
+	padding: 0.3rem;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.choice div{
+	border-radius: 0.1rem;
+	width: 3.38rem;
+	height: 2.3rem;
+}
+.choice div img{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: 0.1rem;
+}
