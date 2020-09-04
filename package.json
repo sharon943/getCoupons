@@ -15,7 +15,7 @@
     "element-ui": "^2.2.2",
     "iview": "^2.11.0",
     "mavon-editor": "^2.7.4",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "v-distpicker": "^1.0.16",
     "vue": "^2.5.2",
     "vue-clipboard2": "^0.3.0",
